@@ -1,0 +1,5 @@
+vanna[qdrant,openai]
+qdrant-client
+python-dotenv
+pyodbc
+flask
