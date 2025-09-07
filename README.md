@@ -20,19 +20,6 @@ This project demonstrates how to combine **Vanna.ai** and **Qdrant** to convert 
 - **Python** – Core orchestration.
 - **SQLAlchemy (optional)** – Database connectivity.
 
-## 📂 Project Structure
-'''bash
-.
-├── data/
-│   ├── ddl/          # Extracted DDL statements
-│   ├── docs/         # Business documentation
-│   ├── examples/     # Question-SQL training examples
-│   └── general/      # General documentation
-├── train_from_files.py   # Training script
-├── extract_ddl.py        # SQL Server DDL extractor
-└── README.md
-'''
-
 ## ⚙️ Setup
 1) Clone the repository: `git clone https://github.com/your-org/your-repo.git` then `cd your-repo`
 2) Create a virtual environment: `python -m venv .venv` then `source .venv/bin/activate` (Linux/macOS) or `.venv\Scripts\activate` (Windows)
