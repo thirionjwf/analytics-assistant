@@ -21,7 +21,7 @@ This project demonstrates how to combine **Vanna.ai** and **Qdrant** to convert 
 - **SQLAlchemy (optional)** – Database connectivity.
 
 ## 📂 Project Structure
-'''
+'''bash
 .
 ├── data/
 │   ├── ddl/          # Extracted DDL statements
