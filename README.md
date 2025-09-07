@@ -21,6 +21,7 @@ This project demonstrates how to combine **Vanna.ai** and **Qdrant** to convert 
 - **SQLAlchemy (optional)** – Database connectivity.
 
 ## 📂 Project Structure
+'''
 .
 ├── data/
 │   ├── ddl/          # Extracted DDL statements
@@ -30,6 +31,7 @@ This project demonstrates how to combine **Vanna.ai** and **Qdrant** to convert 
 ├── train_from_files.py   # Training script
 ├── extract_ddl.py        # SQL Server DDL extractor
 └── README.md
+'''
 
 ## ⚙️ Setup
 1) Clone the repository: `git clone https://github.com/your-org/your-repo.git` then `cd your-repo`
